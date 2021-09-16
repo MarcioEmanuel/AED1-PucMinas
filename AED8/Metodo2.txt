@@ -1,0 +1,9 @@
+O tamanho da Array e de: 20 Byte(s)
+
+Elementos da Array
+
+Elemento 1: 0
+Elemento 2: 2
+Elemento 3: 4
+Elemento 4: 6
+Elemento 5: 8
