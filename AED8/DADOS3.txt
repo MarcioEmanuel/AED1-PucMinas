@@ -1,0 +1,6 @@
+Vao ser gerados 5 valores aleatorios no intervalo de 1 - 15.
+14
+2
+7
+13
+4
